@@ -1,0 +1,17 @@
+{
+    "name": "jollylodger-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Font Diner"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/jollylodger-bower.git"
+    },
+    "description": "Jolly Lodger font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
